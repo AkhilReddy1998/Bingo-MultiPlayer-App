@@ -1,3 +1,10 @@
+* {
+  background-color: black;
+  color: white;
+  /*Below is to make the content appear on the center*/
+  max-width: 500px;
+  margin: auto;
+}
 body {
   text-align: center !important;
 }
@@ -9,4 +16,7 @@ td {
 }
 table {
   cursor: default;
+}
+.numberInsideBingo {
+  font-size: xx-large;
 }

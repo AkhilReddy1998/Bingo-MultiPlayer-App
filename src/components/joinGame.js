@@ -32,7 +32,7 @@ class JoinGame extends Component {
           id="messageDisplayArea"
         ></div>
         <Link
-          to="/game"
+          to="/join/game"
           id="startTheGamebtn"
           className="btn btn-primary"
           style={{ visibility: "hidden" }}
