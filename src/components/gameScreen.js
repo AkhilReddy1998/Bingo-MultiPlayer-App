@@ -6,7 +6,7 @@ class Game extends Component {
     return (
       <table>
         <thead>
-          <tr>
+          <tr id="gameTitle">
             {this.state.letters.map((letter) => (
               <th key={letter}>{letter}</th>
             ))}

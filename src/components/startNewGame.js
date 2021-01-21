@@ -42,7 +42,7 @@ class StartNewGame extends Component {
 
       //5) Display Key to the User
       document.getElementById("keyDisplayArea").innerHTML =
-        "Key generated Successfully, Key = " + key;
+        "Key generation successful, Key = " + key;
 
       //6) Update the state with the updated count
       this.setState({ count });

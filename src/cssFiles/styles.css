@@ -20,3 +20,12 @@ table {
 .numberInsideBingo {
   font-size: xx-large;
 }
+#keyDisplayArea,
+#messageDisplayArea {
+  color: green;
+}
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap");
+#gameTitle {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 30px;
+}

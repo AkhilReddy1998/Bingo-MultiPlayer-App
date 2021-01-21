@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import firebase from "../utilities/firebase";
+//import firebase from "../utilities/firebase";
 import { Link } from "react-router-dom";
 
 class JoinGame extends Component {
